@@ -1,0 +1,5 @@
+{
+  "name": "Global Video Deconstruct AI",
+  "description": "Analyzes social media videos (TikTok/IG/YT), extracts scripts, translates to Chinese, offers optimization tips, and generates editable, exportable multilingual briefs.",
+  "requestFramePermissions": []
+}
